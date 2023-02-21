@@ -9,6 +9,11 @@
         "centerSkill": {
             "name": "ピュアエンジェル",
             "description": "ピュアPが9%UPする+μ'sのメンバーはさらにピュアPが6%UPする"
+        },
+        "iconPosition": {
+            "x": -56,
+            "y": -24,
+            "scale": 188
         }
     },
     {
@@ -21,6 +26,11 @@
         "centerSkill": {
             "name": "ピュアエンジェル",
             "description": "ピュアPが9%UPする+2年生のメンバーはさらにピュアPが6%UPする"
+        },
+        "iconPosition": {
+            "x": -40,
+            "y": -8,
+            "scale": 169
         }
     },
     {
@@ -33,6 +43,11 @@
         "centerSkill": {
             "name": "ピュアパワー",
             "description": "ピュアPが3%UPする"
+        },
+        "iconPosition": {
+            "x": -77,
+            "y": -18,
+            "scale": 250
         }
     }
 ]
