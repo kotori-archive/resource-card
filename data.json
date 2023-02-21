@@ -49,5 +49,73 @@
             "y": -18,
             "scale": 250
         }
+    },
+    {
+        "id": "1454",
+        "type": "cool",
+        "skill": {
+            "name": "間違えないで〜！",
+            "description": "コンボ{}を達成するごとに{}の確率でスコアが{}増える"
+        },
+        "centerSkill": {
+            "name": "クールエンプレス",
+            "description": "クールPが9%UPする+PrintempsのメンバーはさらにクールPが6%アップする"
+        },
+        "iconPosition": {
+            "x": -0,
+            "y": -0,
+            "scale": 100
+        }
+    },
+    {
+        "id": "2499",
+        "type": "smile",
+        "skill": {
+            "name": "ことりの小鳥ちゃん",
+            "description": "コンボ{}を達成するごとに{}の確率でスコアが{}増える"
+        },
+        "centerSkill": {
+            "name": "スマイルプリンセス",
+            "description": "スマイルPが9%UPする+2年生のメンバーはさらにスマイルPが6%アップする"
+        },
+        "iconPosition": {
+            "x": -0,
+            "y": -0,
+            "scale": 100
+        }
+    },
+    {
+        "id": "3512",
+        "type": "smile",
+        "skill": {
+            "name": "あなたのエスコート",
+            "description": "リズムアイコン{}個ごとに{}の確率で直前に発動した特技リピート以外の特技効果を発動する"
+        },
+        "centerSkill": {
+            "name": "スマイルプリンセス",
+            "description": "スマイルPが9%UPする+μ'sのメンバーはさらにスマイルPが6%UPする"
+        },
+        "iconPosition": {
+            "x": -0,
+            "y": -0,
+            "scale": 100
+        }
+    },
+    {
+        "id": "3821",
+        "type": "cool",
+        "skill": {
+            "name": "大好きをもっと",
+            "description": "リズムアイコン{}個ごとに{}の確率で直前に発動した特技リピート以外の特技効果を発動する"
+        },
+        "centerSkill": {
+            "name": "クールエンプレス",
+            "description": "クールが9%UPする+μ'sのメンバーはさらにクールPが6%アップする"
+        },
+        "iconPosition": {
+            "x": -0,
+            "y": -0,
+            "scale": 100
+        }
     }
 ]
